@@ -11,4 +11,4 @@ operation system, is that it can't store information well like the other operati
 
 
 when it comes to linux operation system, I think it is helpful, but at the same time I would not recomend it in curtain situations. The operation system is helpful in ways 
-when you are trying to find a website or webpage that has no restriction, or you just trying to find a stable source in genral. Although when it comes to runing to trying to run your favorite program on the Linux operation system, it will not work.
+when you are trying to find a website or webpage that has no restriction, or you just trying to find a stable source in genral. Although when it comes to runing to trying to run your favorite program on the Linux operation system, because it will not work.
